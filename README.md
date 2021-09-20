@@ -2,4 +2,4 @@
 #VTU_CPS #Cprogram
 Live Class demo C-Program Examples
 
-C Programs executed on Visual Studio(CS) Code platform.
+C Programs executed on Visual Studio(VS) Code platform.
